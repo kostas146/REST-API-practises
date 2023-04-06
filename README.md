@@ -1,4 +1,4 @@
-# REST-API-practises
+# REST-API-practice
 
 This project showcases the implementation of security using the Spring Boot 3.0 framework and JSON Web Tokens (JWT) authentication. The project encompasses the following key features:
 
